@@ -5,3 +5,4 @@ File 3-The long Format
 File 4-Hidden Files
 File 5-I love numbers
 File 6-Welcome
+File 7-Betty in my first directory
