@@ -24,3 +24,4 @@ File 11-lists
 
 File 12-File type
 
+File 13-Symbolic link
