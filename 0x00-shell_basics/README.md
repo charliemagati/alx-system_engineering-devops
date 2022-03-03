@@ -14,4 +14,8 @@ File 6-Welcome
 
 File 7-Betty in my first directory
 
-Fiel 8-firstdelete
+File 8-firstdelete
+
+File 9-firstdirdelete
+
+
