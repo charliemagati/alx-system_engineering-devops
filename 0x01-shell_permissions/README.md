@@ -16,6 +16,10 @@ File 6 - adding multiple permissions
 
 File 7 - adding multiple permissions
 
+File 8 - setting different permissions to different users
+
+
+
 
 
 
