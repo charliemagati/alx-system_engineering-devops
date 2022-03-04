@@ -12,6 +12,9 @@ File 4 - create empty file 'hello'
 
 File 5 - making 'hello' file executable
 
+File 6 - adding multiple permissions
+
+
 
 
 
