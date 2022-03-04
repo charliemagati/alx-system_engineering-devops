@@ -14,6 +14,10 @@ File 5 - making 'hello' file executable
 
 File 6 - adding multiple permissions
 
+File 7 - adding multiple permissions
+
+
+
 
 
 
