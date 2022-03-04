@@ -22,6 +22,10 @@ File 9 - setting file permissions to -rwxrr-x-wx
 
 File 10 - setting file permissions to -rw-rw-r--
 
+File 11 - setting directory permissions
+
+
+
 
 
 
