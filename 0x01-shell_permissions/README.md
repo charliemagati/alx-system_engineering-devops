@@ -24,6 +24,10 @@ File 10 - setting file permissions to -rw-rw-r--
 
 File 11 - setting directory permissions
 
+File 12 -mkdir and setting permissions to 751
+
+
+
 
 
 
