@@ -18,6 +18,10 @@ File 7 - adding multiple permissions
 
 File 8 - setting different permissions to different users
 
+File 9 - setting file permissions to -rwxrr-x-wx
+
+
+
 
 
 
