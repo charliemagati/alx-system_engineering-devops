@@ -4,3 +4,5 @@ File 0 - Change current user to new user 'betty'
 
 File 1 - print the effective username of the current user
 
+File 2 - print all the groups the current user is part of
+
