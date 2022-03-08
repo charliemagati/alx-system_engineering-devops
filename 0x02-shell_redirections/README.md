@@ -10,6 +10,10 @@ File 4 -- 4-lastlines - Prints last 11 lines of a file
 
 File 5 -- 5-firstline - Prints first 10 lines of a file
 
+File 6 -- 6-third_line - Prints 3rd line of a file
+
+
+
 
 
 
