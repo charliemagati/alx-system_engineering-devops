@@ -6,6 +6,10 @@ File 2 --  2-hellofile - Prints contents of the folder 'etc/passwd'
 
 File 3 -- 3-twofiles - Prints the contents of two directories '/etc/passwd and /etc/hosts'
 
+File 4 -- 4-lastlines - Prints last 11 lines of a file
+
+
+
 
 
 
