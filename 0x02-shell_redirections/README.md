@@ -8,7 +8,7 @@ File 3 -- 3-twofiles - Prints the contents of two directories '/etc/passwd and /
 
 File 4 -- 4-lastlines - Prints last 11 lines of a file
 
-File 5 -- 5-firstline - Prints first 5 lines of a file
+File 5 -- 5-firstline - Prints first 10 lines of a file
 
 
 
