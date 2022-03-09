@@ -29,3 +29,5 @@ File 13 -- 13-unique - Takes a list of words as input and prints only words that
 File 14 -- 14- Displayes lines containing the pattern "root" from the file /etc/passwd
 
 File 15 -- Displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+
+File 16 -- Displays lines containing the patter "root" and 3 lines after them in the file /etc/passwd
