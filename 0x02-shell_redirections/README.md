@@ -27,3 +27,5 @@ File 12 -- 12-newest_files - Displays the 10 newest files in the current directo
 File 13 -- 13-unique - Takes a list of words as input and prints only words that appear exactly once
 
 File 14 -- 14- Displayes lines containing the pattern "root" from the file /etc/passwd
+
+File 15 -- Displays the number of lines that contain the pattern "bin" in the file /etc/passwd
