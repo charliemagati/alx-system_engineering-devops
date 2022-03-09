@@ -15,3 +15,5 @@ File 6 -- 6-third_line - Prints 3rd line of a file
 File 7 -- 7-file - Creates a file name with special characters and append text to the file
 
 File 8 -- 8-cwd_state - Writes and overwrittes the file 'ls -la' with the result of 'ls -la'
+
+File 9 -- 9-duplicate_last_line - duplicates last line of the file
