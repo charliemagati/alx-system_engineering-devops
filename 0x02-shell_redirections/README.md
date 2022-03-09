@@ -23,3 +23,5 @@ File 10 -- 10-no_more_js - deletes all the regular files (not the directories) w
 File 11 -- 11-directories - Counts the number of directories and sub-directories in the current directory
 
 File 12 -- 12-newest_files - Displays the 10 newest files in the current directory
+
+File 13 -- 13-unique - Takes a list of words as input and prints only words that appear exactly once
