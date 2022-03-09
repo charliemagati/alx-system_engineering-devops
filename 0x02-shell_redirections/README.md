@@ -12,12 +12,6 @@ File 5 -- 5-firstline - Prints first 10 lines of a file
 
 File 6 -- 6-third_line - Prints 3rd line of a file
 
+File 7 -- 7-file - Creates a file name with special characters and append text to the file
 
-
-
-
-
-
-
-
-
+File 8 -- 
